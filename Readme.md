@@ -1,5 +1,5 @@
 
-# 🛡️ Intrusion Detection System (IDS) - Swarm Intelligence-Based Model
+# 🛡️ Intrusion Detection System (IDS) - Swarm Intelligence
 
 This project involves the implementation of an Intrusion Detection System (IDS) using swarm intelligence algorithms and machine learning techniques for efficient classification of cyber-attacks.
 
