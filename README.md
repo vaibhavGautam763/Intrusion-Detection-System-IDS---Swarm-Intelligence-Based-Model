@@ -1,2 +1,2 @@
-# Intrusion-Detection-System-IDS---Swarm-Intelligence-Based-Model
+# Intrusion-Detection-System-IDS -- Swarm-Intelligence
 Research Poject(M.Sc. CS)
